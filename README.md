@@ -1,5 +1,5 @@
 # 👋 Hi , my name is **Roman Goduhin**!
-## At the moment I am already working  :)
+## Open to work  :)
 ### Check my [LinkedIn CV](https://www.linkedin.com/in/romangoduhin/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACTYKU4Bklt2-gR5cYwiSX7z1IC6igem4hs,1611162890768)/)
 ### My [CodeWars](https://www.codewars.com/users/romangoduhin)
 
