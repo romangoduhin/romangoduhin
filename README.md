@@ -1,6 +1,7 @@
-# 👋 Hi , my name is **Roman Goduhin**!
-## Open to work  :)
-### Check my [LinkedIn CV](https://www.linkedin.com/in/romangoduhin/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACTYKU4Bklt2-gR5cYwiSX7z1IC6igem4hs,1611162890768)/)
+# 👋 Hi , my name is **Roman Goduhin** and I am a Frontend Developer!
+## #OPENTOWORK
+### Check my [LinkedIn CV](https://www.linkedin.com/in/romangoduhin/overlay/1635510740373/single-media-viewer/)
+![CV](https://i.ibb.co/xDXjpZF/Roman-Goduhin-Resume-1.png)
 ### My [CodeWars](https://www.codewars.com/users/romangoduhin)
 
 ### Main Languages and Technogolies
